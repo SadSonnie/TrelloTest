@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="15307c78-aa81-4030-afdf-04721fe84732">
+  <name>Main</name>
+  <synonym>
+    <key>ru</key>
+    <value>Main</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Constant.Key</content>
+  <content>Constant.Token</content>
+  <content>Constant.Secret</content>
+  <content>DataProcessor.TrelloThing</content>
+</mdclass:Subsystem>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fc7b7b1a-c7e3-4316-8e84-e0f5cd779af0">
+  <producedTypes>
+    <objectType typeId="d9a755fa-e10f-4ec1-85c3-3502b73a979d" valueTypeId="79010981-025c-44aa-9c2f-9249bba253e9"/>
+    <managerType typeId="bff3193f-255c-4920-9fc9-db29dcdd0bb1" valueTypeId="2b12c444-bd2e-4a0d-a940-cbd6a30e6685"/>
+  </producedTypes>
+  <name>TrelloThing</name>
+  <synonym>
+    <key>ru</key>
+    <value>Trello thing</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.TrelloThing.Form.Trello</defaultForm>
+  <forms uuid="7535ffe0-334d-477d-b37a-3ced5930b116">
+    <name>Trello</name>
+    <synonym>
+      <key>ru</key>
+      <value>Trello</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

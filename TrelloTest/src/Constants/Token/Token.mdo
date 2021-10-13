@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2d93a6bf-1440-4ccf-bd63-3367fcd8dfb5">
+  <producedTypes>
+    <managerType typeId="9967e1eb-0eab-44f6-9cc1-2333318975da" valueTypeId="42910a5d-581f-41ad-8b8d-98e3525b3d6e"/>
+    <valueManagerType typeId="f06e5cfa-5c68-408a-8c7e-da7d217670aa" valueTypeId="50c726b8-556b-47b7-b690-94e9905a8d54"/>
+    <valueKeyType typeId="7ad13bdc-68ef-4b48-9847-e747cf55e6d9" valueTypeId="d5982f71-a385-4aa1-b471-d3483e54538c"/>
+  </producedTypes>
+  <name>Token</name>
+  <synonym>
+    <key>ru</key>
+    <value>Token</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers/>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
