@@ -45,4 +45,5 @@
   <constants>Constant.Token</constants>
   <constants>Constant.Secret</constants>
   <dataProcessors>DataProcessor.TrelloThing</dataProcessors>
+  <informationRegisters>InformationRegister.ДоскиТрелло</informationRegisters>
 </mdclass:Configuration>

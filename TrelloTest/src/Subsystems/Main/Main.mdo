@@ -11,4 +11,6 @@
   <content>Constant.Token</content>
   <content>Constant.Secret</content>
   <content>DataProcessor.TrelloThing</content>
+  <content>CommonModule.main</content>
+  <content>InformationRegister.ДоскиТрелло</content>
 </mdclass:Subsystem>
