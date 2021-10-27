@@ -13,4 +13,5 @@
   <content>DataProcessor.TrelloThing</content>
   <content>CommonModule.main</content>
   <content>InformationRegister.ДоскиТрелло</content>
+  <content>InformationRegister.УчастникиТрелло</content>
 </mdclass:Subsystem>
